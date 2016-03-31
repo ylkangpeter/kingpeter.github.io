@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Peter's Blog]]></title>
-  <link href="http://ylkangpeter.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Research | Peter's Blog]]></title>
+  <link href="http://ylkangpeter.github.io/blog/categories/research/atom.xml" rel="self"/>
   <link href="http://ylkangpeter.github.io/"/>
   <updated>2016-03-31T11:11:28+08:00</updated>
   <id>http://ylkangpeter.github.io/</id>
@@ -35,15 +35,6 @@ I would like to share some thoughts for designing and limitation for this cache.
 <p>There are many open source cache projects these days. Actually, there are too many of them.</p>
 
 <p>&ndash;to be continue&ndash;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Micro Service Research]]></title>
-    <link href="http://ylkangpeter.github.io/blog/2016/03/16/micro-service-research/"/>
-    <updated>2016-03-16T14:23:53+08:00</updated>
-    <id>http://ylkangpeter.github.io/blog/2016/03/16/micro-service-research</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
